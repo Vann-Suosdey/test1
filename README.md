@@ -9,4 +9,3 @@ added a css file
 # how to update html
 
 1.open index.html
-2.cum
