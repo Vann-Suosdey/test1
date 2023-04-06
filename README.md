@@ -5,3 +5,7 @@ for testing!!
 
 added hello!! in index.html
 added a css file
+
+# how to update html
+
+1.open index.html
